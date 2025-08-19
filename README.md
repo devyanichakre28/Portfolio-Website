@@ -1,2 +1,2 @@
 # Portfolio-Website
-html
+Created a responsive and visually engaging portfolio using HTML, CSS, and JavaScript to showcase front-end development skills. Features include clean UI design, smooth navigation, interactive components, and optimized layouts for both desktop and mobile devices. Integrated animated transitions, project galleries, and contact forms to enhance user engagement. Demonstrates strong command over responsive design principles, cross-browser compatibility, and user-centric design.
